@@ -1,0 +1,5 @@
+title = "Quaver"
+artist = "DJ Taka"
+music_file = "audio.mp3"
+data_file = "data.txt"
+keys = 4 # MUST BE 4 or 7

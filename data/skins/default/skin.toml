@@ -1,0 +1,7 @@
+open_sound = "welcome.wav"
+welcome_background_color = 5609915 # hex 0x5599bb converted to number
+welcome_logo = "welcome-logo.png"
+welcome_wait = 2
+# opus_logo = "opus-logo.png"
+# start_button = "start-button.png"
+# back_button = "back_button.png"

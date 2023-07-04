@@ -1,0 +1,8 @@
+[skin]
+selected_skin = "default"
+
+[note]
+scroll_speed = 26
+
+[debug]
+default_map_selected = "dj-taka_quaver"
